@@ -9,7 +9,6 @@ following purpose:
 	Always lightweight, a silent interaction.
 	Simple design that hovers in view,
 	Softly transparent, yet always true.
-	
 
 	Leaving no trace, it operates light,
 	Dynamically floating, just out of sight.
