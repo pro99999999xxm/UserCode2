@@ -20,10 +20,9 @@ following purpose:
 
 文件:
 
-	点击 run.bat 以启动程序
+	点击 Oblique Orthographic Conduit.exe 以启动程序
 	点击 Main\LD-testrun.bat 以启动**
 	config.ini 整界面样式，绑键等
-	Main\Updates.txt 查看更新内容
 
 界面:
 
