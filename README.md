@@ -4,22 +4,15 @@ seamless user experience. It was designed for aproach the
 following purpose:
 
 	Bringing seamless ease to your desktop’s space,
-	
 	Yielding control with a delicate grace.
-	
 	Providing function without distraction,
-	
 	Always lightweight, a silent interaction.
-	
 	Simple design that hovers in view,
-	
 	Softly transparent, yet always true.
 	
 
 	Leaving no trace, it operates light,
-
 	Dynamically floating, just out of sight.
-
 	Balanced perfectly for those who demand,
 
 
